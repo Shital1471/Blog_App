@@ -17,3 +17,10 @@ The app features an attractive and user-friendly UI/UX design, providing an enga
 
 
 ## Output
+![Screen 1](https://github.com/Shital1471/Blog_App/assets/114605853/f30145bb-c870-483a-a680-c6d032efcfe5)
+![Screen 2 (2)](https://github.com/Shital1471/Blog_App/assets/114605853/05c55652-8996-432e-8994-b8de27cbde7b)
+![Screen 3](https://github.com/Shital1471/Blog_App/assets/114605853/feaf8785-bea6-4f2c-80d0-125ce5b08392)
+![Screen 4](https://github.com/Shital1471/Blog_App/assets/114605853/5ac24943-283a-4d8a-9ca0-a899c286e884)
+
+
+
